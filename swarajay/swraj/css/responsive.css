@@ -1,0 +1,118 @@
+@media screen and (min-width: 320px) {
+  
+    .check_btn {
+      display: block;
+      width: 100%;
+    }
+
+    .form_section .form_custom {
+      display: block;
+      width: 100%;
+    }
+
+
+}
+
+@media screen and (min-width: 425px) {
+  
+    .check_btn {
+      display: block;
+      width: 100%;
+    }
+
+    .form_section .form_custom {
+      display: block;
+      width: 100%;
+    }
+
+
+
+
+}
+
+@media screen and (min-width:481px) {
+ 
+    .check_btn {
+      display: block;
+      width: 100%;
+    }
+
+    .form_section .form_custom {
+      display: block;
+      width: 100%;
+    }
+
+
+}
+
+@media only screen and (min-width: 768px) {
+    
+    .check_btn {
+       display: inline-block;
+      width: 20%;
+    }
+
+    .form_section .form_custom {
+      display: inline-block;
+      width: 16%;
+    }
+
+}
+
+@media only screen and (min-width: 992px) {
+  
+    .check_btn {
+      display: inline-block;
+      width: 20%;
+    }
+
+    .form_section .form_custom {
+      display: inline-block;
+      width: 16%;
+    }
+
+}
+
+
+@media only screen and (min-width: 1024px) {
+
+    .check_btn {
+      display: inline-block;
+      width: 20%;
+    }
+
+    .form_section .form_custom {
+      display: inline-block;
+      width: 16%;
+    }
+
+
+}
+
+@media only screen and (min-width: 1200px)and (max-width: 1600px) {
+
+    .check_btn {
+      display: inline-block;
+      width: 20%;
+    }
+    .form_section .form_custom {
+      display: inline-block;
+      width: 16%;
+    }
+
+}
+
+@media only screen and (min-width: 1610px)and (max-width: 2600px) {
+  
+    .check_btn {
+      display: inline-block;
+      width: 20%;
+    }
+
+    .form_section .form_custom {
+      display: inline-block;
+      width: 16%;
+    }
+
+
+}
